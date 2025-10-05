@@ -1,6 +1,6 @@
 # 🍳 CookingDB – ER Diagram Project
 
-![CookingDB Banner](ERD.png)
+![CookingDB Banner](https://github.com/sanika76/Cookbook-Database-Design/blob/main/ER%20Diagram%20(Cooking).jpg)
 
 ## 📖 Overview
 **CookingDB** is a structured SQL database project designed to efficiently manage recipes, ingredients, users, and step-by-step cooking processes.  
